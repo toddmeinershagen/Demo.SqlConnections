@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6700B3DC-183D-4AAA-83A4-A223A514D514}"
 	ProjectSection(SolutionItems) = preProject
 		query-adonet-counters-periodically.ps1 = query-adonet-counters-periodically.ps1
+		sql-cone-128x128.ico = sql-cone-128x128.ico
 	EndProjectSection
 EndProject
 Global
